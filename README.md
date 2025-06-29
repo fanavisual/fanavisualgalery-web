@@ -1,2 +1,2 @@
-# fanavisualgalery-web
+# gelary
 web
