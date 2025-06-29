@@ -1,2 +1,2 @@
-# gelary
+# galery
 web
